@@ -1,0 +1,34 @@
+* {
+    background-color: #161617;
+    text-color: #c9c7cd;
+    foreground-color: #c9c7cd;
+    selected-background: #3C3B3E;
+    selected-foreground: #e3e2e5;
+    urgent-background: #f5a191;
+    urgent-foreground: #f5a191;
+    active-background: #90b99f;
+    active-foreground: #90b99f;
+    alternate-background: #e6b99d;
+    alternate-foreground: #e6b99d;
+    urgent-alternate-background: #aca1cf;
+    urgent-alternate-foreground: #aca1cf;
+    inactive-background: #e29eca;
+    inactive-foreground: #e29eca;
+    urgent-inactive-background: #ea83a5;
+    urgent-inactive-foreground: #ea83a5;
+    highlight-background: #c1c0d4;
+    highlight-foreground: #c1c0d4;
+    border-color: #57575f;
+    scrollbar-color: #57575f;
+    normal-background: #1b1b1d;
+    normal-foreground: #27272a;
+    active-normal-background: #9dc6ac;
+    active-normal-foreground: #9dc6ac;
+    selected-normal-background: #b9aeda;
+    selected-normal-foreground: #b9aeda;
+    urgent-normal-background: #ffae9f;
+    urgent-normal-foreground: #ffae9f;
+    tooltip-background: #161617;
+    tooltip-foreground: #c9c7cd;
+}
+
